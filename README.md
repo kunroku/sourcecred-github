@@ -1,3 +1,3 @@
 # sourcecred-github
 
-sourcecred の github プラグインのテストです．
+sourcecred の github プラグインのテストです。
